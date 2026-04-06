@@ -5,7 +5,7 @@ import { Metadata } from "next";
 import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://whoviks.me"),
+  metadataBase: new URL("https://whoviks.is-a.dev"),
   title: {
     default: "whoviks",
     template: "%s | whoviks",
